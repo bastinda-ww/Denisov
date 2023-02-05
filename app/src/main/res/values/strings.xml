@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">cinema</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Wazaaaaaaaap</string>
+    <string name="title_film_list_fragment">Популярные</string>
+    <string name="popular">Популярные</string>
+    <string name="favorite">Избранное</string>
+    <string name="title_favorite_film_list_fragment">Избранное</string>
+    <string name="film_genre">Жанр</string>
+    <string name="film_name">Название фильма</string>
+    <string name="description">Какое-то описание какого-то фильма должно тут быть. Какой-то длинный или не очень длинный текст можно сюда написать, чтобы он был на мекете вёрски.</string>
+    <string name="genre">Жанры фильма:…</string>
+    <string name="Countryes">Страны:</string>
+    <string name="TryAgain">Повторить</string>
+    <string name="text_of_Wrong">Произошла ошибка при загрузке данных, проверьте подключение к сети</string>
+</resources>
